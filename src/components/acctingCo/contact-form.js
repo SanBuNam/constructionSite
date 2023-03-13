@@ -67,8 +67,8 @@ class ContactForm extends Component {
                   <option selected value="">
                     Please selecct ...
                   </option>
-                  <option value="Residential Pest Control">Residential Pest Control</option>
-                  <option value="Commercial Pest Control">Commercial Pest Control</option>
+                  <option value="Residential">Residential</option>
+                  <option value="Termite Control">Termite Control</option>
                 </select>
               </div>
               <br />

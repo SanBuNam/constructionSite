@@ -25,7 +25,7 @@ const AcctingSite = () => {
             </h3>
 				  </div>
           <div className="leftBox">
-            <h2>Termibugs Exterminators Inc<br /> Pest control service</h2>
+            <h2>Termibugs Exterminators Inc</h2>
           </div>
           <div className="rightBox">
             <h2>Get in touch with</h2>
@@ -96,7 +96,7 @@ const AcctingSite = () => {
               size="2x"
               icon={faFilePdf}
             />
-              <a target="_blank" href={FlyerDL4}>Zythor Fumigant Structure Occupant Fact Sheet Fumigant Preparation Checklist</a>
+              <a target="_blank" href={FlyerDL4}>Fumigation checklist</a>
             </li>
             <li>
             <FontAwesomeIcon
@@ -106,7 +106,7 @@ const AcctingSite = () => {
               icon={faFilePdf}
             />
               <a target="_blank" href={FlyerDL5}>
-                Zythor Fumigante, Hojoas con datos informativos para ocupantes de propiedades, Preparacion de la Lista de Verificacion Fumigante</a>
+                PDF Fume Notice</a>
             </li>
           </ul>
         </div>

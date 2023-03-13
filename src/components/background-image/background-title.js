@@ -33,7 +33,7 @@ const BackgroundSection = ({ backgroundStyle }) => (
                 <br />
                 <p className="subtitle">
                   Your Friendly Neighborhood
-                  Pest Control Company
+                  Termite Company
                   We Fumigate Termites and Pests for residential, commercial, government and industrial customers. 
                 </p>
               </h1>

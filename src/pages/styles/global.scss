@@ -1291,3 +1291,35 @@ select::-ms-expand {
     }
   }
 }
+
+.documents {
+  &--library {
+    padding: 20px;
+    margin: 60px;
+    h2 {
+      text-align: center;
+      font-size: 43px;
+      font-weight: bolder;
+      text-shadow: 2px 2px 2px;
+    }
+    &__inner {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      justify-content: space-around;
+      vertical-align: middle;
+      grid-gap: 30px;
+      text-align: center;
+      .fontAwesome {
+        font-size: 68px;
+      }
+      a {
+        line-height: 1.5;
+        font-size: 22px;
+        text-decoration: none;
+        font-weight: bold;
+        padding: 10px;
+        text-shadow: 1px 1px 1px;
+      }
+    }
+  }
+}

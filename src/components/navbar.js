@@ -14,6 +14,9 @@ const Navbar = () => (
       <Link to="/services">Fumigation Overview</Link>
       </li>
       <li>
+        <Link to="/documents">Documents Download</Link>
+      </li>
+      <li>
         <Link to="/about">About Us</Link>
       </li>
       <li>

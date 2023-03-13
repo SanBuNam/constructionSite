@@ -9,8 +9,8 @@ const ContactInfo = () => {
         <p>
           If you have an urgent enquiry please feel free to leave a voice mail,
           text me on{" "}
-          <a href="tel:+9497563500">
-            <span>(949) 756-3500</span>
+          <a href="tel:+9098024485">
+            <span>(909) 802-4485</span>
           </a>{" "}
           or send me message using the form and I will do my best to get back to
           you as soon as possible.
@@ -20,7 +20,7 @@ const ContactInfo = () => {
       <div>
         <h3>Contact details</h3>
         <p>
-          Contact number: <a href="tel:+9497563500">(949) 756-3500</a>
+          Contact number: <a href="tel:+9098024485">(909) 802-4485</a>
           <br />
           <br />
           Email:{" "}
